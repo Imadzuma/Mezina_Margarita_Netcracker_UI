@@ -1,0 +1,7 @@
+[
+{"price":967,"qty":10000,"name":"Master and Margarita","authors":[{"firstName":"Mihael","lastName":"Bulgakov","birthYear":1891,"deadYear":1940}]},
+{"price":1415,"qty":121773,"name":"Crime and Punishment","authors":[{"firstName":"Fedor","lastName":"Dostoevsky","birthYear":1821}]},
+{"price":1234,"qty":166600,"name":"War and Piece","authors":[{"firstName":"Lev","lastName":"Tolstoy","birthYear":1828,"deadYear":1910}]},
+{"price":1500,"qty":100005,"name":"Dead souls","authors":[{"firstName":"Nikolay","lastName":"Gogol","birthYear":1809,"deadYear":1852}]},
+{"price":18000,"qty":10664431,"name":"Eugene Onegin","authors":[{"firstName":"Alexander","lastName":"Pushkin","birthYear":1799,"deadYear":1837}]}
+]

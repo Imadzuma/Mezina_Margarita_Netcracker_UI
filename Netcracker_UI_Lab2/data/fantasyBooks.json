@@ -1,0 +1,5 @@
+[
+{"price":2000,"qty":135613,"name":"Lord of the Rings","authors":[{"firstName":"Jhon","lastName":"Tolkien","birthYear":1892,"deadYear":1973}]},
+{"price":10000,"qty":25671,"name":"Harry Potter","authors":[{"firstName":"Joanne","lastName":"Rowling","birthYear":1965}]},
+{"price":2500,"qty":12004,"name":"The Witcher","authors":[{"firstName":"Andrzej","lastName":"Sapkowski","birthYear":1948}]}
+]
